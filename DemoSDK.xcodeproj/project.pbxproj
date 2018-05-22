@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A1EC86520AEDA150003B531 /* PickerViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1EC86420AEDA150003B531 /* PickerViewViewController.swift */; };
+		0A1EC86920AEFFE50003B531 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1EC86820AEFFE50003B531 /* MyCollectionViewCell.swift */; };
+		0A1EC86B20AF08E70003B531 /* MyCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1EC86A20AF08E70003B531 /* MyCollectionViewController.swift */; };
+		0A6E72F420B02144009496AE /* ScrollViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6E72F320B02144009496AE /* ScrollViewViewController.swift */; };
 		0AF3C9B920AAD296005265E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3C9B820AAD296005265E7 /* AppDelegate.swift */; };
 		0AF3C9BB20AAD296005265E7 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3C9BA20AAD296005265E7 /* FirstViewController.swift */; };
 		0AF3C9BD20AAD296005265E7 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF3C9BC20AAD296005265E7 /* SecondViewController.swift */; };
@@ -16,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A1EC86420AEDA150003B531 /* PickerViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViewViewController.swift; sourceTree = "<group>"; };
+		0A1EC86820AEFFE50003B531 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
+		0A1EC86A20AF08E70003B531 /* MyCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewController.swift; sourceTree = "<group>"; };
+		0A6E72F320B02144009496AE /* ScrollViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewViewController.swift; sourceTree = "<group>"; };
 		0AF3C9B520AAD295005265E7 /* DemoSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AF3C9B820AAD296005265E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AF3C9BA20AAD296005265E7 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +67,11 @@
 				0AF3C9B820AAD296005265E7 /* AppDelegate.swift */,
 				0AF3C9BA20AAD296005265E7 /* FirstViewController.swift */,
 				0AF3C9BC20AAD296005265E7 /* SecondViewController.swift */,
+				0A1EC86420AEDA150003B531 /* PickerViewViewController.swift */,
 				0AF3C9BE20AAD296005265E7 /* Main.storyboard */,
+				0A6E72F320B02144009496AE /* ScrollViewViewController.swift */,
+				0A1EC86A20AF08E70003B531 /* MyCollectionViewController.swift */,
+				0A1EC86820AEFFE50003B531 /* MyCollectionViewCell.swift */,
 				0AF3C9C120AAD297005265E7 /* Assets.xcassets */,
 				0AF3C9C320AAD297005265E7 /* LaunchScreen.storyboard */,
 				0AF3C9C620AAD297005265E7 /* Info.plist */,
@@ -139,6 +151,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AF3C9BD20AAD296005265E7 /* SecondViewController.swift in Sources */,
+				0A6E72F420B02144009496AE /* ScrollViewViewController.swift in Sources */,
+				0A1EC86520AEDA150003B531 /* PickerViewViewController.swift in Sources */,
+				0A1EC86B20AF08E70003B531 /* MyCollectionViewController.swift in Sources */,
+				0A1EC86920AEFFE50003B531 /* MyCollectionViewCell.swift in Sources */,
 				0AF3C9B920AAD296005265E7 /* AppDelegate.swift in Sources */,
 				0AF3C9BB20AAD296005265E7 /* FirstViewController.swift in Sources */,
 			);
